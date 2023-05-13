@@ -21,4 +21,4 @@ Steps performed:
 `pip install -r requirements.txt`
 
 ## How to execute the project:
-`python kolokwium_calosc.py`
+`python tweets_analysis.py`
